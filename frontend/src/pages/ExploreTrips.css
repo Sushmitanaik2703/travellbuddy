@@ -1,0 +1,22 @@
+.explore-container {
+  padding: 30px;
+}
+
+.explore-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.trip-card h2 {
+  margin-bottom: 10px;
+}
+
+.trip-card p {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.trip-card button {
+  margin-top: 12px;
+  width: 100%;
+}

@@ -1,0 +1,43 @@
+.dashboard {
+  min-height: 100vh;
+  background: #f5f8fc;
+}
+
+.dash-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background: #1976d2;
+}
+
+.dash-nav h2 {
+  color: white;
+}
+
+.dash-nav a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.welcome-card {
+  width: 80%;
+  max-width: 800px;
+  margin: 60px auto;
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.card-buttons {
+  margin-top: 30px;
+}
+
+.card-buttons button {
+  margin: 10px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
